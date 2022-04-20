@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Editado desde github
 Holi.
+
+#### Cambios en servidor local
+Adios.
